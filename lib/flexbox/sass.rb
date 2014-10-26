@@ -2,6 +2,7 @@ require "flexbox/sass/version"
 
 module Flexbox
   module Sass
-    # Your code goes here...
+    class Engine < ::Rails::Engine
+    end
   end
 end
