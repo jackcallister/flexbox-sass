@@ -1,10 +1,10 @@
 # Flexbox::Sass
 
-TODO: Write a gem description
+TODO: Write a gem description - This will happen, I promise!
 
 ## Installation
 
-Add this line to your application's Gemfile:
+Add this line to your RAILS application's Gemfile:
 
     gem 'flexbox-sass'
 
@@ -18,7 +18,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Add `@import 'flexbox` to any file that requires the mixin. Take a look at the original flexbox mixin for instructions - [https://github.com/mastastealth/sass-flex-mixin](sass-flex-mixin).
 
 ## Contributing
 
