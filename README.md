@@ -18,7 +18,7 @@ Or install it yourself as:
 
 ## Usage
 
-Add `@import 'flexbox` to any file that requires the mixin. Take a look at the original flexbox mixin for instructions - [https://github.com/mastastealth/sass-flex-mixin](sass-flex-mixin).
+Add `@import 'flexbox` to any file that requires the mixin. Take a look at the original flexbox mixin for instructions - https://github.com/mastastealth/sass-flex-mixin.
 
 ## Contributing
 
